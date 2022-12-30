@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-30T06:04:22.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="9WdOF5BwD3Xy7pUPQ6yo" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-30T06:05:51.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Y__7FkHTuFCUP76JG6Cc" version="20.3.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2622" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -8,62 +8,62 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="OLT退服真实性排查" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-870" y="146" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1130" y="106" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="是" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="-840" y="450" as="targetPoint" />
+            <mxPoint x="-1100" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="B7fmwswd04WIzq48xGux-0" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="-660" y="360" as="targetPoint" />
+            <mxPoint x="-920" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="真实退服？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-870" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1130" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="B7fmwswd04WIzq48xGux-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-810" y="865" />
+              <mxPoint x="-1070" y="825" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="&lt;b&gt;设置定界结论&lt;br&gt;&lt;/b&gt;&lt;br&gt;网管至设备通信中断，设备运行正常" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-900" y="640" width="180" height="90" as="geometry" />
+          <mxGeometry x="-1160" y="600" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B7fmwswd04WIzq48xGux-0" target="B7fmwswd04WIzq48xGux-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-0" value="动环故障排查" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-619" y="250" width="120" height="40" as="geometry" />
+          <mxGeometry x="-879" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B7fmwswd04WIzq48xGux-1" target="B7fmwswd04WIzq48xGux-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-1" value="传输故障排查—OLT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-370" y="250" width="120" height="40" as="geometry" />
+          <mxGeometry x="-630" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B7fmwswd04WIzq48xGux-2" target="B7fmwswd04WIzq48xGux-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-2" value="设备自身故障排查" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-143" y="250" width="120" height="40" as="geometry" />
+          <mxGeometry x="-403" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B7fmwswd04WIzq48xGux-3" target="B7fmwswd04WIzq48xGux-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-3" value="工程信息核对—OLT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="83" y="250" width="120" height="40" as="geometry" />
+          <mxGeometry x="-177" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B7fmwswd04WIzq48xGux-4" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-4" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-840" y="40" width="60" height="60" as="geometry" />
+          <mxGeometry x="-1100" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-16" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B7fmwswd04WIzq48xGux-8" target="B7fmwswd04WIzq48xGux-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -72,21 +72,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-8" value="动环告警？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="83" y="385" width="120" height="50" as="geometry" />
+          <mxGeometry x="-177" y="345" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-18" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B7fmwswd04WIzq48xGux-15" target="B7fmwswd04WIzq48xGux-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-15" value="传输告警？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="83" y="520" width="120" height="50" as="geometry" />
+          <mxGeometry x="-177" y="480" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B7fmwswd04WIzq48xGux-17" target="B7fmwswd04WIzq48xGux-37" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-780" y="870" as="targetPoint" />
+            <mxPoint x="-1040" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-17" value="&lt;b&gt;设置定界结论&lt;br&gt;&lt;/b&gt;&lt;br&gt;经核实机房动环存在异常告警，初步判断为机房动环异常导致设备退服" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=20;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="53" y="640" width="180" height="90" as="geometry" />
+          <mxGeometry x="-207" y="600" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-23" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B7fmwswd04WIzq48xGux-20" target="B7fmwswd04WIzq48xGux-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -95,57 +95,57 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-20" value="设备自身告警？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-143" y="385" width="120" height="50" as="geometry" />
+          <mxGeometry x="-403" y="345" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-25" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B7fmwswd04WIzq48xGux-22" target="B7fmwswd04WIzq48xGux-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-22" value="传输告警？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-143" y="520" width="120" height="50" as="geometry" />
+          <mxGeometry x="-403" y="480" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B7fmwswd04WIzq48xGux-24" target="B7fmwswd04WIzq48xGux-37" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-780" y="870" as="targetPoint" />
+            <mxPoint x="-1040" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-24" value="&lt;b&gt;设置定界结论&lt;br&gt;&lt;/b&gt;&lt;br&gt;经核实设备存在严重硬件告警，配套传输、动环设备运行正常，初步判断为硬件故障导致设备退服。" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=20;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-173" y="640" width="180" height="90" as="geometry" />
+          <mxGeometry x="-433" y="600" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-29" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B7fmwswd04WIzq48xGux-26" target="B7fmwswd04WIzq48xGux-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-32" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B7fmwswd04WIzq48xGux-26" target="B7fmwswd04WIzq48xGux-33" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-310" y="515" as="targetPoint" />
+            <mxPoint x="-570" y="475" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-26" value="存在工程？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-370" y="385" width="120" height="50" as="geometry" />
+          <mxGeometry x="-630" y="345" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B7fmwswd04WIzq48xGux-28" target="B7fmwswd04WIzq48xGux-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-550" y="865" />
+              <mxPoint x="-810" y="825" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-28" value="&lt;b&gt;设置定界结论&lt;br&gt;&lt;/b&gt;&lt;br&gt;各省可结合自身组网结构情况，根据预处理逻辑和定界逻辑，输出多个可能的故障原因。" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=22;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-640" y="640" width="180" height="90" as="geometry" />
+          <mxGeometry x="-900" y="600" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B7fmwswd04WIzq48xGux-33" target="B7fmwswd04WIzq48xGux-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-33" value="&lt;b&gt;设置定界结论&lt;br&gt;&lt;/b&gt;&lt;br&gt;经核实设备存在严重硬件告警，配套传输、动环设备运行正常，初步判断为硬件故障导致设备退服。" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=20;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-400" y="640" width="180" height="90" as="geometry" />
+          <mxGeometry x="-660" y="600" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-36" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-340" y="970" width="60" height="60" as="geometry" />
+          <mxGeometry x="-600" y="930" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B7fmwswd04WIzq48xGux-37" target="B7fmwswd04WIzq48xGux-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B7fmwswd04WIzq48xGux-37" value="&lt;b&gt;设置预处理结果&lt;br&gt;&lt;/b&gt;&lt;br&gt;将5个预处理步骤的结果说明拼接成一个字符串输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-400" y="820" width="180" height="90" as="geometry" />
+          <mxGeometry x="-660" y="780" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
